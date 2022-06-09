@@ -1,2 +1,2 @@
 # Central Dogma
-## DNA Transcription
+DNA Transcription
